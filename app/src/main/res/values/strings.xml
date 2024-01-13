@@ -124,5 +124,12 @@
     <string name="editBizType">ENTER TYPE OF BUSINESS</string>
     <string name="txtBizAddress">BUSINESS ADDRESS</string>
     <string name="editBizAddress">ENTER BUSINESS ADDRESS</string>
+    <!--MESSAGE ACTIVITY SECTION-->
+    <string name="touristName">Karl Given</string>
+    <string name="touristOnlineStatus">Active Now</string>
+    <string name="touristOfflineStatus">Offline</string>
+    <string name="typeMessage">Type a message .\.\.</string>
+    <string name="touristMessages">MESSAGES</string>
+    <string name="touristPreviewMessage">Hello, are pets welcome to.\.\.</string>
 
 </resources>
